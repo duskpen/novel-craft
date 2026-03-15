@@ -16,12 +16,7 @@
 
 ## 快速开始
 
-1. **下载整个仓库。** 点击页面上方绿色 **Code** 按钮 → **Download ZIP**，解压到本地。只看单个文件拿不到完整体验——模板、方法论、示例和工具都在里面。
-2. 读 [`SKILL.md`](./SKILL.md)——这是整个框架从头到尾的教学入口，读完就能开始写。
-3. 用 AI 协作写作时，把 `SKILL.md` 的内容作为第一份喂给 AI 的文件。
-4. 复制 `templates/` 里的模板到你自己的项目目录，按需填写。
-5. 看 [`examples/full-character-example.md`](./examples/full-character-example.md) 理解角色构建的完整流程。
-6. 按 3 章为一个批次推进，写完用审稿清单复盘。
+点击页面上方绿色 **Code** 按钮 → **Download ZIP**，解压到本地。然后从 [`SKILL.md`](./SKILL.md) 开始读。
 
 ## 仓库结构
 
