@@ -21,7 +21,7 @@
 3. 看 [`examples/full-character-example.md`](./examples/full-character-example.md) 理解角色构建的完整流程。
 4. 按 3 章为一个批次推进，写完用审稿清单复盘。
 
-如果你是 AI，直接从 [`SKILL.md`](./SKILL.md) 开始读。
+用 AI 协作写作时，把 [`SKILL.md`](./SKILL.md) 作为第一份喂给 AI 的文件。
 
 ## 仓库结构
 
